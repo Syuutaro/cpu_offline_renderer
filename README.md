@@ -83,7 +83,7 @@ EGSR 2007
 # How to use
 1. Create a directory which has scene file "scene.json", directory "result", directory "model", and directory "texture".
 If you use obj files or image files, you have to store each kinds of files in the directory "model" or "texture".
-2. When executing the application, you can see comments "Input absolute path to scene directory" in command line,
+2. When executing the application, you can see comments "Input absolute path to asset directory" in command line,
 so please input absolute path of your scene directory and press enter key.
 3. Rendering images are generated and stored in asset_directory/result.
 
